@@ -1,6 +1,7 @@
 # Web-CI-PreRequisites
  Continuous Integration Week1 prerequisites
 WEB 1066 pre PreRequisites
+UC Davis
 1. An email address, try gmail.com
 2.set up github account
 3. git client, use github desktiop
